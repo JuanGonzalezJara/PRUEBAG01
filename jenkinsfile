@@ -35,7 +35,7 @@ pipeline {
                 script {
                     try {
                         echo 'Ejecutando pruebas...'
-                        bat 'npm test sleep 5'
+                        bat 'npm test'
                     } catch (Exception e) {
                         error('❌ Error en la etapa de Test')
                     }
