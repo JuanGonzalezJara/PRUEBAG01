@@ -114,11 +114,11 @@ Se ajusta jenkinsfile en proceso de testin debido a que jest no reconoce el para
 
 Nuevamente se actualiza git:
 
-![foto32](https://i.ibb.co/3mTcJzsG/IMG101.jpg)
+![foto32](https://raw.githubusercontent.com/JuanGonzalezJara/PRUEBAG01/refs/heads/imagefix/img/foto32.jpg)
 
 Y se ejecuta jenkins con especial atencion a la seccion de test:
 
-![foto33](https://i.ibb.co/3mj9jZ2T/IMG102.jpg)
+![foto33](https://raw.githubusercontent.com/JuanGonzalezJara/PRUEBAG01/refs/heads/imagefix/img/foto33.jpg)
 
 Se adjunta resultado en archivo #14.txt.
 
